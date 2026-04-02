@@ -1,0 +1,7 @@
+outputs/*.pkl
+outputs/*.png
+outputs/*.csv
+data/corporate_rating.csv
+__pycache__/
+*.pyc
+.spyproject/
